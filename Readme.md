@@ -1,4 +1,6 @@
 #Offensive cyber literature
+
+
 https://www.ired.team
 
 https://book.hacktricks.xyz/welcome/readme
